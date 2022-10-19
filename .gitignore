@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+eSparesAutomation/allure-report
+eSparesAutomation/allure-results
+eSparesAutomation/node_modules
+eSparesAutomation/.idea
+.vs/
+allure-report/
+
+/eSparesAutomation/.vscode

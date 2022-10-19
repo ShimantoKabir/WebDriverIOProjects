@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "types": [
+      "node",
+      "webdriverio/async",
+      "@wdio/mocha-framework",
+      "expect-webdriverio"
+    ],
+    "allowJs": false,
+    "target": "es6",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "dist/",
+    "listFiles": true,
+    "noEmitHelpers": false,
+    "alwaysStrict": true,
+    "suppressImplicitAnyIndexErrors": false,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": false,
+    "diagnostics": true
+  }
+}
